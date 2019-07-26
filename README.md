@@ -23,6 +23,11 @@ Visualization tools in haystack-ui include -
 | Real time dependency graph with health and connectivity indicators |
 |     ![Service Graph](./public/images/assets/service_graph.png)     |
 
+|                               Service Insights (beta)                                |
+| :----------------------------------------------------------------------------------: |
+| Graph view of all upstream and downstream dependencies related to a selected service |
+|           ![Service Insights](./public/images/assets/service_insights.png)           |
+
 |               Alerts and Anomaly Detection                |
 | :-------------------------------------------------------: |
 | UI for displaying, configuring, and subscribing to alerts |
